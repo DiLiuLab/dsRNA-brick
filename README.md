@@ -29,7 +29,7 @@ This repository provides an end-to-end workflow for dsRNA-brick design:
 Option A (Git):
 
 ```bash
-git clone https://github.com/Liangxiao-Chen/dsRNA-brick.git dsRNA-brick
+git clone https://github.com/DiLiuLab/dsRNA-brick.git dsRNA-brick
 cd dsRNA-brick
 ```
 
@@ -99,9 +99,18 @@ dsRNA-brick/
 ├── Orthogonal_sequence_selection/
 ├── build_dsRNA_bricks_2D/
 ├── build_dsRNA_bricks_3D/
+├── CITATION.cff
 ├── LICENSE
 └── README.md
 ```
+
+## Citation
+
+If you use `dsRNA-brick` in your research, please cite:
+
+> Chen, L., Li, Z., Yan, J., et al. (2026). Programmable Self-Assembly of RNA Nanostructures with >100 Unique Components. *bioRxiv*. https://doi.org/10.64898/2026.09.02.748990
+
+Machine-readable citation metadata, including the complete author list, is available in [`CITATION.cff`](CITATION.cff).
 
 ## License
 

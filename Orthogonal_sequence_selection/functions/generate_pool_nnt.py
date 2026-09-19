@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """
-Generate pools of N-nt RNA sequences of the form 4S (strong, G/C) and (N-4) W (weak, A/U),
-using the same rules as the original C++ program GeneratePool_Nnt.cpp.
+Generate pools of N-nt RNA sequences with a chosen number of strong (G/C)
+positions. The default of 4 uses the original C++ pattern-generation rules.
 
 
 Inputs
 ------
 - N (int): total sequence length.
+- --gc-count (optional): exact number of G/C positions; default 4.
 - --output (optional): output file path. If omitted, a default "RNAPool_<N>nt.txt" is used.
 
 
@@ -20,26 +21,39 @@ Output
 
 Example
 -------
-python generate_pool_nnt.py 8 --output RNAPool_8nt.txt
+python generate_pool_nnt.py 8 --gc-count 3 --output RNAPool_8nt_3GC.txt
 """
 
 
 import argparse
-from typing import List
+from itertools import combinations
+from typing import List, Optional
 
 
 
 
-def gen_pattern_sw(num_nt: int) -> List[str]:
+def gen_pattern_sw(num_nt: int, gc_count: int = 4) -> List[str]:
     """
-    Direct translation of GenPatternSW in the C++ code.
+    Return S/W patterns with exactly gc_count strong (G/C) positions.
 
-
-    Returns all S/W patterns (as strings of 's' and 'w') with exactly 4 's' and (N-4) 'w',
-    obeying the same constraints as the original:
-    - avoid 4 consecutive 's'
-    - mostly avoid 4 consecutive 'w' according to the original loop logic
+    Keep the original C++ translation and output order when gc_count is 4.
+    For other counts, enumerate placements and reject four consecutive S or W
+    positions. All later sequence-level filters are shared.
     """
+    if num_nt < 4:
+        raise ValueError("N must be at least 4.")
+    if not 2 <= gc_count <= num_nt - 2:
+        raise ValueError("GC count must be between 2 and N-2 so all four bases can appear.")
+
+    if gc_count != 4:
+        patterns: List[str] = []
+        for strong_positions in combinations(range(num_nt), gc_count):
+            strong_set = set(strong_positions)
+            pattern = ''.join('s' if i in strong_set else 'w' for i in range(num_nt))
+            if 'ssss' not in pattern and 'wwww' not in pattern:
+                patterns.append(pattern)
+        return patterns
+
     patterns: List[str] = []
     Sa = 0
     Sb = 1
@@ -384,12 +398,12 @@ def refine_seq(seq_pool: List[str], num_nt: int) -> List[str]:
 
 
 
-def generate_sequences(num_nt: int) -> List[str]:
+def generate_sequences(num_nt: int, gc_count: int = 4) -> List[str]:
     """
-    High-level: generate and refine the sequence pool for length num_nt.
+    Generate and refine sequences of length num_nt with gc_count G/C bases.
     Returns the final list of sequences.
     """
-    patterns = gen_pattern_sw(num_nt)
+    patterns = gen_pattern_sw(num_nt, gc_count)
     seq_pool: List[str] = []
     for pattern in patterns:
         seq_pool.extend(assign_seq_for_pattern(pattern, num_nt))
@@ -399,15 +413,22 @@ def generate_sequences(num_nt: int) -> List[str]:
 
 
 
-def parse_args() -> argparse.Namespace:
+def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Generate N-nt RNA sequences with 4 strong (G/C) and (N-4) weak (A/U) positions, "
-                    "using the same rules as GeneratePool_Nnt.cpp."
+        description="Generate N-nt RNA sequences with a chosen number of strong "
+                    "(G/C) positions (default 4)."
     )
     parser.add_argument(
         "N",
         type=int,
         help="Total sequence length (number of nucleotides)."
+    )
+    parser.add_argument(
+        "--gc-count",
+        "-C",
+        type=int,
+        default=4,
+        help="Exact number of G/C bases in each sequence (default: 4; range: 2 to N-2).",
     )
     parser.add_argument(
         "--output",
@@ -416,20 +437,20 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Output file path. Default: RNAPool_<N>nt.txt"
     )
-    return parser.parse_args()
+    return parser.parse_args(argv)
 
 
 
 
-def main() -> None:
-    args = parse_args()
+def main(argv: Optional[List[str]] = None) -> None:
+    args = parse_args(argv)
     num_nt = args.N
-    if num_nt < 4:
-        raise ValueError("N must be at least 4.")
 
-
-    seqs = generate_sequences(num_nt)
-    print(f"{len(seqs)} {num_nt}-nt sequences remain after refinement.")
+    seqs = generate_sequences(num_nt, args.gc_count)
+    print(
+        f"{len(seqs)} {num_nt}-nt sequences with {args.gc_count} G/C bases "
+        "remain after refinement."
+    )
 
 
     out_path = args.output

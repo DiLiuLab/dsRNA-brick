@@ -70,9 +70,9 @@
 <text x="83.00" y="35.91" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#666666">12</text>
 <polygon points="94.00,850.00 366.70,850.00 366.70,781.83 94.00,781.83" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
 <text x="102.18" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAA</text>
-<text x="358.51" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CACAUGCAA</text>
+<text x="358.51" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGCAUGUG</text>
 <text x="102.18" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
-<text x="358.51" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCCAGUAG</text>
+<text x="358.51" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUACUGGAA</text>
 <text x="358.51" y="806.48" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="820.11" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="833.75" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -81,9 +81,9 @@
 <text x="230.35" y="820.71" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile8</text>
 <polygon points="94.00,713.65 366.70,713.65 366.70,645.48 94.00,645.48" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="102.18" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAA</text>
-<text x="358.51" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGGAAUCAC</text>
+<text x="358.51" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGAUUCCA</text>
 <text x="102.18" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
-<text x="358.51" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUAGAGAC</text>
+<text x="358.51" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCUCUAGA</text>
 <text x="358.51" y="670.13" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="683.77" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="697.40" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -94,7 +94,7 @@
 <text x="102.18" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAA</text>
 <text x="358.51" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCCUAACG</text>
 <text x="102.18" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
-<text x="358.51" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGCUAUG</text>
+<text x="358.51" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUAGCAUC</text>
 <text x="358.51" y="533.78" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="547.42" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="561.05" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -105,7 +105,7 @@
 <text x="102.18" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAA</text>
 <text x="358.51" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCGUCUAG</text>
 <text x="102.18" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
-<text x="358.51" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCGUAGAA</text>
+<text x="358.51" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCUACGAC</text>
 <text x="358.51" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="411.07" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="424.70" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -116,7 +116,7 @@
 <text x="102.18" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAA</text>
 <text x="358.51" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCAGAAUG</text>
 <text x="102.18" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
-<text x="358.51" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACAGGUUC</text>
+<text x="358.51" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACCUGUA</text>
 <text x="358.51" y="261.09" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="274.72" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="358.51" y="288.36" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -135,10 +135,10 @@
 <text x="230.35" y="165.64" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB9BBBB</text>
 <text x="230.35" y="138.97" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile98</text>
 <polygon points="366.70,850.00 912.09,850.00 912.09,781.83 639.39,781.83" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="661.02" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUCAAGUG</text>
-<text x="903.09" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGAUCAGA</text>
-<text x="409.51" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUACUGGAA</text>
-<text x="896.54" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUACUCAG</text>
+<text x="661.02" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CACUUGAAC</text>
+<text x="903.09" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUGAUCUC</text>
+<text x="409.51" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCCAGUAG</text>
+<text x="896.54" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGAGUAUC</text>
 <text x="895.73" y="806.48" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="895.73" y="820.11" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="895.73" y="833.75" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -146,10 +146,10 @@
 <text x="653.03" y="847.38" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB46BBBB</text>
 <text x="707.57" y="820.71" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile0</text>
 <polygon points="912.09,850.00 1457.48,850.00 1457.48,781.83 1184.78,781.83" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="1206.41" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUACUCUC</text>
+<text x="1206.41" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGAGUAAC</text>
 <text x="1448.48" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGGAUACAC</text>
-<text x="954.90" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGAGUAUC</text>
-<text x="1441.93" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGAUCAAUC</text>
+<text x="954.90" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUACUCAG</text>
+<text x="1441.93" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUGAUCG</text>
 <text x="1441.12" y="806.48" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1441.12" y="820.11" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1441.12" y="833.75" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -157,9 +157,9 @@
 <text x="1198.42" y="847.38" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB46BBBB</text>
 <text x="1252.96" y="820.71" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile1</text>
 <polygon points="1457.48,850.00 2002.87,850.00 2002.87,781.83 1730.17,781.83" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="1751.80" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCAAGGUA</text>
+<text x="1751.80" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACCUUGAC</text>
 <text x="1993.87" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCACAUGAC</text>
-<text x="1500.29" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUGAUCG</text>
+<text x="1500.29" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGAUCAAUC</text>
 <text x="1987.33" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUACCUUC</text>
 <text x="1986.51" y="806.48" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1986.51" y="820.11" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -180,9 +180,9 @@
 <text x="2343.74" y="820.71" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile3</text>
 <polygon points="2548.26,850.00 3093.65,850.00 3093.65,781.83 2820.96,781.83" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
 <text x="2842.59" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGUAUGCA</text>
-<text x="3084.65" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAGGUAAC</text>
+<text x="3084.65" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUACCUGA</text>
 <text x="2591.07" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAUGCAC</text>
-<text x="3078.11" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAUGCUUC</text>
+<text x="3078.11" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAGCAUGA</text>
 <text x="3077.29" y="806.48" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3077.29" y="820.11" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3077.29" y="833.75" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -192,7 +192,7 @@
 <polygon points="3093.65,850.00 3639.04,850.00 3639.04,781.83 3366.35,781.83" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
 <text x="3387.98" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGAUAGC</text>
 <text x="3630.04" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCUCAGUA</text>
-<text x="3136.47" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAGCAUGA</text>
+<text x="3136.47" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAUGCUUC</text>
 <text x="3623.50" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGCUAACA</text>
 <text x="3622.68" y="806.48" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3622.68" y="820.11" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -201,8 +201,8 @@
 <text x="3379.98" y="847.38" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB46BBBB</text>
 <text x="3434.52" y="820.71" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile5</text>
 <polygon points="3639.04,850.00 4184.43,850.00 4184.43,781.83 3911.74,781.83" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="3933.37" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUAGAGCA</text>
-<text x="4175.44" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACGCAAAC</text>
+<text x="3933.37" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCUCUAAG</text>
+<text x="4175.44" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUUGCGUA</text>
 <text x="3681.86" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUUAGCUC</text>
 <text x="4168.89" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUCACUAG</text>
 <text x="4168.07" y="806.48" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -212,7 +212,7 @@
 <text x="3925.37" y="847.38" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB46BBBB</text>
 <text x="3979.91" y="820.71" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile6</text>
 <polygon points="4184.43,850.00 4729.83,850.00 4729.83,781.83 4457.13,781.83" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="4478.76" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGCUAUGAA</text>
+<text x="4478.76" y="792.84" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAUAGCC</text>
 <text x="4720.83" y="792.84" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACGAUCAC</text>
 <text x="4227.25" y="847.38" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGUGACA</text>
 <text x="4714.28" y="847.38" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">AAUAAUA</text>
@@ -223,10 +223,10 @@
 <text x="4470.77" y="847.38" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB46BBBB</text>
 <text x="4525.30" y="820.71" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile7</text>
 <polygon points="366.70,781.83 639.39,781.83 639.39,713.65 366.70,713.65" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="374.88" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCUCUAGA</text>
-<text x="631.21" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAGAGUUC</text>
-<text x="374.88" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGCAUGUG</text>
-<text x="631.21" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CACUUGAAC</text>
+<text x="374.88" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUAGAGAC</text>
+<text x="631.21" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACUCUCA</text>
+<text x="374.88" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CACAUGCAA</text>
+<text x="631.21" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUCAAGUG</text>
 <text x="631.21" y="738.30" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="631.21" y="751.94" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="631.21" y="765.57" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -234,9 +234,9 @@
 <text x="503.04" y="779.21" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="503.04" y="752.54" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile9</text>
 <polygon points="366.70,645.48 639.39,645.48 639.39,577.30 366.70,577.30" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="374.88" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUAGCAUC</text>
-<text x="631.21" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCACUUGUA</text>
-<text x="374.88" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGAUUCCA</text>
+<text x="374.88" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGCUAUG</text>
+<text x="631.21" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACAAGUGG</text>
+<text x="374.88" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGGAAUCAC</text>
 <text x="631.21" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAGUGAAUC</text>
 <text x="631.21" y="601.96" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="631.21" y="615.59" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -245,10 +245,10 @@
 <text x="503.04" y="642.86" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="503.04" y="616.19" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile27</text>
 <polygon points="366.70,509.13 639.39,509.13 639.39,440.96 366.70,440.96" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="374.88" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCUACGAC</text>
+<text x="374.88" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCGUAGAA</text>
 <text x="631.21" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUAACCAG</text>
 <text x="374.88" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGUUAGGAA</text>
-<text x="631.21" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUAGCUUG</text>
+<text x="631.21" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAGCUAUC</text>
 <text x="631.21" y="465.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="631.21" y="479.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="631.21" y="492.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -256,10 +256,10 @@
 <text x="503.04" y="506.51" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="503.04" y="479.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile45</text>
 <polygon points="366.70,372.78 639.39,372.78 639.39,304.61 366.70,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="374.88" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACCUGUA</text>
-<text x="631.21" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUACUUC</text>
+<text x="374.88" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACAGGUUC</text>
+<text x="631.21" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAGUAAGC</text>
 <text x="374.88" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGACGAA</text>
-<text x="631.21" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGAACGUA</text>
+<text x="631.21" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACGUUCUC</text>
 <text x="631.21" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="631.21" y="342.90" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="631.21" y="356.53" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -280,8 +280,8 @@
 <polygon points="912.09,781.83 1184.78,781.83 1184.78,713.65 912.09,713.65" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
 <text x="920.27" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCUGUCAC</text>
 <text x="1176.60" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAUGCUCA</text>
-<text x="920.27" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUGAUCUC</text>
-<text x="1176.60" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGAGUAAC</text>
+<text x="920.27" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGAUCAGA</text>
+<text x="1176.60" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUACUCUC</text>
 <text x="1176.60" y="738.30" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1176.60" y="751.94" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1176.60" y="765.57" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -289,10 +289,10 @@
 <text x="1048.43" y="779.21" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="1048.43" y="752.54" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile10</text>
 <polygon points="912.09,645.48 1184.78,645.48 1184.78,577.30 912.09,577.30" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="920.27" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUAAGGAC</text>
+<text x="920.27" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCCUUACA</text>
 <text x="1176.60" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUGCAAUC</text>
-<text x="920.27" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGUAUCGC</text>
-<text x="1176.60" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUACUAGG</text>
+<text x="920.27" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCGAUACUA</text>
+<text x="1176.60" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUAGUAUG</text>
 <text x="1176.60" y="601.96" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1176.60" y="615.59" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1176.60" y="629.23" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -301,7 +301,7 @@
 <text x="1048.43" y="616.19" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile28</text>
 <polygon points="912.09,509.13 1184.78,509.13 1184.78,440.96 912.09,440.96" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
 <text x="920.27" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAGUGUGAA</text>
-<text x="1176.60" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAAUCUUG</text>
+<text x="1176.60" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAGAUUGC</text>
 <text x="920.27" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCUAGAUC</text>
 <text x="1176.60" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCUGAUUC</text>
 <text x="1176.60" y="465.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -312,8 +312,8 @@
 <text x="1048.43" y="479.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile46</text>
 <polygon points="912.09,372.78 1184.78,372.78 1184.78,304.61 912.09,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="920.27" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGGUCAAG</text>
-<text x="1176.60" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUUGUUAC</text>
-<text x="920.27" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCGUAACUA</text>
+<text x="1176.60" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAACAAGG</text>
+<text x="920.27" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGUUACGC</text>
 <text x="1176.60" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGACAUACA</text>
 <text x="1176.60" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1176.60" y="342.90" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -322,9 +322,9 @@
 <text x="1048.43" y="370.17" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="1048.43" y="343.50" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile64</text>
 <polygon points="912.09,236.43 1184.78,236.43 1184.78,168.26 912.09,168.26" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="920.27" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGAUACGA</text>
-<text x="1176.60" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGACUUGA</text>
-<text x="920.27" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CACAUCUGA</text>
+<text x="920.27" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCGUAUCUC</text>
+<text x="1176.60" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAAGUCUC</text>
+<text x="920.27" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAGAUGUG</text>
 <text x="1176.60" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGUCUUC</text>
 <text x="1176.60" y="192.91" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1176.60" y="206.55" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -336,7 +336,7 @@
 <text x="1465.66" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACAAUGCC</text>
 <text x="1721.99" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAACUGAC</text>
 <text x="1465.66" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGUAUCCA</text>
-<text x="1721.99" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACCUUGAC</text>
+<text x="1721.99" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCAAGGUA</text>
 <text x="1721.99" y="738.30" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1721.99" y="751.94" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1721.99" y="765.57" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -344,10 +344,10 @@
 <text x="1593.83" y="779.21" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="1593.83" y="752.54" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile11</text>
 <polygon points="1457.48,645.48 1730.17,645.48 1730.17,577.30 1457.48,577.30" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="1465.66" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUACUUAG</text>
-<text x="1721.99" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCGAAUGG</text>
-<text x="1465.66" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACAGAUGA</text>
-<text x="1721.99" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUAGACUC</text>
+<text x="1465.66" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAAGUAGG</text>
+<text x="1721.99" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCAUUCGAA</text>
+<text x="1465.66" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAUCUGUC</text>
+<text x="1721.99" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGUCUAUG</text>
 <text x="1721.99" y="601.96" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1721.99" y="615.59" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1721.99" y="629.23" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -355,10 +355,10 @@
 <text x="1593.83" y="642.86" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="1593.83" y="616.19" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile29</text>
 <polygon points="1457.48,509.13 1730.17,509.13 1730.17,440.96 1457.48,440.96" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="1465.66" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGGACAA</text>
-<text x="1721.99" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAUGAACC</text>
+<text x="1465.66" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGUCCAUC</text>
+<text x="1721.99" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUUCAUAC</text>
 <text x="1465.66" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAAGAUGC</text>
-<text x="1721.99" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUAUCGAG</text>
+<text x="1721.99" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUCGAUACA</text>
 <text x="1721.99" y="465.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1721.99" y="479.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1721.99" y="492.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -368,7 +368,7 @@
 <polygon points="1457.48,372.78 1730.17,372.78 1730.17,304.61 1457.48,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="1465.66" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGAUAGUCA</text>
 <text x="1721.99" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAAGUGCA</text>
-<text x="1465.66" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAACUGUC</text>
+<text x="1465.66" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACAGUUAG</text>
 <text x="1721.99" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUUCAUUG</text>
 <text x="1721.99" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1721.99" y="342.90" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -377,7 +377,7 @@
 <text x="1593.83" y="370.17" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="1593.83" y="343.50" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile65</text>
 <polygon points="1457.48,236.43 1730.17,236.43 1730.17,168.26 1457.48,168.26" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="1465.66" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAUCCGUA</text>
+<text x="1465.66" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACGGAUUG</text>
 <text x="1721.99" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGUUACCA</text>
 <text x="1465.66" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUACGAAAG</text>
 <text x="1721.99" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUACGAUG</text>
@@ -388,7 +388,7 @@
 <text x="1593.83" y="233.82" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="1593.83" y="207.15" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile83</text>
 <polygon points="2002.87,781.83 2275.57,781.83 2275.57,713.65 2002.87,713.65" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="2011.05" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUCUUGAGA</text>
+<text x="2011.05" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUCAAGAG</text>
 <text x="2267.38" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUAGAAAC</text>
 <text x="2011.05" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCAUGUGA</text>
 <text x="2267.38" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGUCUUC</text>
@@ -400,7 +400,7 @@
 <text x="2139.22" y="752.54" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile12</text>
 <polygon points="2002.87,645.48 2275.57,645.48 2275.57,577.30 2002.87,577.30" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="2011.05" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGUAGAUAG</text>
-<text x="2267.38" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCUGAUAC</text>
+<text x="2267.38" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAUCAGGA</text>
 <text x="2011.05" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAGACAAG</text>
 <text x="2267.38" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCAGUUAC</text>
 <text x="2267.38" y="601.96" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -411,8 +411,8 @@
 <text x="2139.22" y="616.19" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile30</text>
 <polygon points="2002.87,509.13 2275.57,509.13 2275.57,440.96 2002.87,440.96" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
 <text x="2011.05" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGGAUUCUA</text>
-<text x="2267.38" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACACAGUC</text>
-<text x="2011.05" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAUGAGGA</text>
+<text x="2267.38" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACUGUGUA</text>
+<text x="2011.05" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCUCAUAG</text>
 <text x="2267.38" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGUCAAG</text>
 <text x="2267.38" y="465.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2267.38" y="479.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -421,10 +421,10 @@
 <text x="2139.22" y="506.51" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="2139.22" y="479.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile48</text>
 <polygon points="2002.87,372.78 2275.57,372.78 2275.57,304.61 2002.87,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="2011.05" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGACUAAC</text>
-<text x="2267.38" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUCGACAA</text>
+<text x="2011.05" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUAGUCAC</text>
+<text x="2267.38" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGUCGAAG</text>
 <text x="2011.05" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGGCUUAC</text>
-<text x="2267.38" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGACCUUAG</text>
+<text x="2267.38" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAAGGUCA</text>
 <text x="2267.38" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2267.38" y="342.90" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2267.38" y="356.53" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -432,10 +432,10 @@
 <text x="2139.22" y="370.17" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="2139.22" y="343.50" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile66</text>
 <polygon points="2002.87,236.43 2275.57,236.43 2275.57,168.26 2002.87,168.26" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="2011.05" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCUGAUAG</text>
-<text x="2267.38" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAAGACC</text>
-<text x="2011.05" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAUAGGUC</text>
-<text x="2267.38" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGAACUUC</text>
+<text x="2011.05" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAUCAGAC</text>
+<text x="2267.38" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUCUUGAA</text>
+<text x="2011.05" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACCUAUCA</text>
+<text x="2267.38" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAGUUCAC</text>
 <text x="2267.38" y="192.91" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2267.38" y="206.55" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2267.38" y="220.18" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -443,7 +443,7 @@
 <text x="2139.22" y="233.82" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="2139.22" y="207.15" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile84</text>
 <polygon points="2548.26,781.83 2820.96,781.83 2820.96,713.65 2548.26,713.65" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="2556.44" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAUCAGAG</text>
+<text x="2556.44" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUCUGAUUG</text>
 <text x="2812.78" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACACAUUC</text>
 <text x="2556.44" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACAGGUA</text>
 <text x="2812.78" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCAUACUC</text>
@@ -456,7 +456,7 @@
 <polygon points="2548.26,645.48 2820.96,645.48 2820.96,577.30 2548.26,577.30" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="2556.44" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAAUGAGC</text>
 <text x="2812.78" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAUCUCUG</text>
-<text x="2556.44" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAGUCAUC</text>
+<text x="2556.44" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGACUGA</text>
 <text x="2812.78" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCAUGUUG</text>
 <text x="2812.78" y="601.96" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2812.78" y="615.59" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -466,9 +466,9 @@
 <text x="2684.61" y="616.19" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile31</text>
 <polygon points="2548.26,509.13 2820.96,509.13 2820.96,440.96 2548.26,440.96" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
 <text x="2556.44" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGUACAAUC</text>
-<text x="2812.78" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGAAGUGC</text>
-<text x="2556.44" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUACAGGA</text>
-<text x="2812.78" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGCAGUUC</text>
+<text x="2812.78" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCACUUCUA</text>
+<text x="2556.44" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCUGUAAG</text>
+<text x="2812.78" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACUGCUA</text>
 <text x="2812.78" y="465.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2812.78" y="479.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2812.78" y="492.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -476,10 +476,10 @@
 <text x="2684.61" y="506.51" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="2684.61" y="479.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile49</text>
 <polygon points="2548.26,372.78 2820.96,372.78 2820.96,304.61 2548.26,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="2556.44" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGCCAUAC</text>
+<text x="2556.44" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAUGGCAA</text>
 <text x="2812.78" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGAACUAUC</text>
 <text x="2556.44" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUAUCUAC</text>
-<text x="2812.78" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCACGUUAG</text>
+<text x="2812.78" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAACGUGA</text>
 <text x="2812.78" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2812.78" y="342.90" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2812.78" y="356.53" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -498,9 +498,9 @@
 <text x="2684.61" y="233.82" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="2684.61" y="207.15" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile85</text>
 <polygon points="3093.65,781.83 3366.35,781.83 3366.35,713.65 3093.65,713.65" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="3101.83" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGGACAAC</text>
+<text x="3101.83" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUGUCCUA</text>
 <text x="3358.17" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGGAUGAUC</text>
-<text x="3101.83" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUACCUGA</text>
+<text x="3101.83" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAGGUAAC</text>
 <text x="3358.17" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUAUCUAG</text>
 <text x="3358.17" y="738.30" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3358.17" y="751.94" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -509,10 +509,10 @@
 <text x="3230.00" y="779.21" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="3230.00" y="752.54" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile14</text>
 <polygon points="3093.65,645.48 3366.35,645.48 3366.35,577.30 3093.65,577.30" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="3101.83" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAUGCCUA</text>
+<text x="3101.83" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGGCAUUC</text>
 <text x="3358.17" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUGUUCAA</text>
-<text x="3101.83" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUGAGAUC</text>
-<text x="3358.17" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUGUUAG</text>
+<text x="3101.83" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUCUCACA</text>
+<text x="3358.17" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAACAAGC</text>
 <text x="3358.17" y="601.96" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3358.17" y="615.59" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3358.17" y="629.23" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -521,9 +521,9 @@
 <text x="3230.00" y="616.19" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile32</text>
 <polygon points="3093.65,509.13 3366.35,509.13 3366.35,440.96 3093.65,440.96" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
 <text x="3101.83" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUAAGCAG</text>
-<text x="3358.17" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUGUUGAA</text>
+<text x="3358.17" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAACAGG</text>
 <text x="3101.83" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUACGCUA</text>
-<text x="3358.17" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCUAAGCC</text>
+<text x="3358.17" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGCUUAGAA</text>
 <text x="3358.17" y="465.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3358.17" y="479.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3358.17" y="492.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -532,7 +532,7 @@
 <text x="3230.00" y="479.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile50</text>
 <polygon points="3093.65,372.78 3366.35,372.78 3366.35,304.61 3093.65,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="3101.83" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAGGAUAC</text>
-<text x="3358.17" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGGAAUG</text>
+<text x="3358.17" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUUCCUAG</text>
 <text x="3101.83" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGAUUCG</text>
 <text x="3358.17" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUGAAUGC</text>
 <text x="3358.17" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -542,10 +542,10 @@
 <text x="3230.00" y="370.17" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="3230.00" y="343.50" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile68</text>
 <polygon points="3093.65,236.43 3366.35,236.43 3366.35,168.26 3093.65,168.26" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="3101.83" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUACGGAA</text>
+<text x="3101.83" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCCGUAUG</text>
 <text x="3358.17" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACUGAAUG</text>
 <text x="3101.83" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAGAACUG</text>
-<text x="3358.17" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAACCUG</text>
+<text x="3358.17" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAGGUUGAA</text>
 <text x="3358.17" y="192.91" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3358.17" y="206.55" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3358.17" y="220.18" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -553,10 +553,10 @@
 <text x="3230.00" y="233.82" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="3230.00" y="207.15" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile86</text>
 <polygon points="3639.04,781.83 3911.74,781.83 3911.74,713.65 3639.04,713.65" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="3647.22" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUCUAUGG</text>
+<text x="3647.22" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCAUAGAUG</text>
 <text x="3903.56" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUGUUCAC</text>
 <text x="3647.22" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACUGAGAC</text>
-<text x="3903.56" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCUCUAAG</text>
+<text x="3903.56" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUAGAGCA</text>
 <text x="3903.56" y="738.30" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3903.56" y="751.94" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3903.56" y="765.57" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -564,10 +564,10 @@
 <text x="3775.39" y="779.21" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="3775.39" y="752.54" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile15</text>
 <polygon points="3639.04,645.48 3911.74,645.48 3911.74,577.30 3639.04,577.30" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="3647.22" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCGUAAGUG</text>
-<text x="3903.56" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUUCAAGC</text>
+<text x="3647.22" y="588.32" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CACUUACGA</text>
+<text x="3903.56" y="588.32" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUGAAAG</text>
 <text x="3647.22" y="642.86" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUGGAAC</text>
-<text x="3903.56" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUCACUCA</text>
+<text x="3903.56" y="642.86" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAGUGAAC</text>
 <text x="3903.56" y="601.96" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3903.56" y="615.59" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3903.56" y="629.23" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -575,8 +575,8 @@
 <text x="3775.39" y="642.86" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="3775.39" y="616.19" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile33</text>
 <polygon points="3639.04,509.13 3911.74,509.13 3911.74,440.96 3639.04,440.96" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="3647.22" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGGUCAUG</text>
-<text x="3903.56" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGCACUA</text>
+<text x="3647.22" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUGACCUA</text>
+<text x="3903.56" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGUGCUAG</text>
 <text x="3647.22" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGUUACAUC</text>
 <text x="3903.56" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUCAUUC</text>
 <text x="3903.56" y="465.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -588,7 +588,7 @@
 <polygon points="3639.04,372.78 3911.74,372.78 3911.74,304.61 3639.04,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="3647.22" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUCUGAAC</text>
 <text x="3903.56" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUACCAAUG</text>
-<text x="3647.22" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCUAUCCG</text>
+<text x="3647.22" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGGAUAGAA</text>
 <text x="3903.56" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUAAGUUG</text>
 <text x="3903.56" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3903.56" y="342.90" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -598,8 +598,8 @@
 <text x="3775.39" y="343.50" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile69</text>
 <polygon points="3639.04,236.43 3911.74,236.43 3911.74,168.26 3639.04,168.26" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
 <text x="3647.22" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAUCGACA</text>
-<text x="3903.56" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUAGUAC</text>
-<text x="3647.22" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGCUAAGUA</text>
+<text x="3903.56" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUACUAAGC</text>
+<text x="3647.22" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACUUAGCC</text>
 <text x="3903.56" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAGUCUCA</text>
 <text x="3903.56" y="192.91" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3903.56" y="206.55" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -610,8 +610,8 @@
 <polygon points="4184.43,781.83 4457.13,781.83 4457.13,713.65 4184.43,713.65" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
 <text x="4192.62" y="724.67" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUCUGAC</text>
 <text x="4448.95" y="724.67" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGAGCUAC</text>
-<text x="4192.62" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUUGCGUA</text>
-<text x="4448.95" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAUAGCC</text>
+<text x="4192.62" y="779.21" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACGCAAAC</text>
+<text x="4448.95" y="779.21" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGCUAUGAA</text>
 <text x="4448.95" y="738.30" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4448.95" y="751.94" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4448.95" y="765.57" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -630,7 +630,7 @@
 <text x="4320.78" y="642.86" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="4320.78" y="616.19" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile34</text>
 <polygon points="4184.43,509.13 4457.13,509.13 4457.13,440.96 4184.43,440.96" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="4192.62" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUUACUGC</text>
+<text x="4192.62" y="451.97" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAGUAAGA</text>
 <text x="4448.95" y="451.97" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUCGAAUC</text>
 <text x="4192.62" y="506.51" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGUACAAC</text>
 <text x="4448.95" y="506.51" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCGUUACUA</text>
@@ -641,10 +641,10 @@
 <text x="4320.78" y="506.51" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="4320.78" y="479.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile52</text>
 <polygon points="4184.43,372.78 4457.13,372.78 4457.13,304.61 4184.43,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="4192.62" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAACUAUG</text>
+<text x="4192.62" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUAGUUGC</text>
 <text x="4448.95" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCGAUUGAA</text>
 <text x="4192.62" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUUACUAC</text>
-<text x="4448.95" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUCAUUGG</text>
+<text x="4448.95" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCAAUGAUG</text>
 <text x="4448.95" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4448.95" y="342.90" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4448.95" y="356.53" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -652,10 +652,10 @@
 <text x="4320.78" y="370.17" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="4320.78" y="343.50" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile70</text>
 <polygon points="4184.43,236.43 4457.13,236.43 4457.13,168.26 4184.43,168.26" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
-<text x="4192.62" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAGAGUGA</text>
+<text x="4192.62" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCACUCUUG</text>
 <text x="4448.95" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAGAUCGA</text>
 <text x="4192.62" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAUCGAC</text>
-<text x="4448.95" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAGUAGUAG</text>
+<text x="4448.95" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUACUACUG</text>
 <text x="4448.95" y="192.91" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4448.95" y="206.55" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4448.95" y="220.18" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -696,9 +696,9 @@
 <text x="4866.17" y="506.51" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="4866.17" y="479.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile53</text>
 <polygon points="4729.83,372.78 5002.52,372.78 5002.52,304.61 4729.83,304.61" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
-<text x="4738.01" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGCAUAGA</text>
+<text x="4738.01" y="315.63" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUAUGCAG</text>
 <text x="4994.34" y="315.63" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">AAUAAUA</text>
-<text x="4738.01" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACUAGGA</text>
+<text x="4738.01" y="370.17" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCUAGUUC</text>
 <text x="4994.34" y="370.17" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">AAUAAUA</text>
 <text x="4994.34" y="329.26" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4994.34" y="342.90" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -709,7 +709,7 @@
 <polygon points="4729.83,236.43 5002.52,236.43 5002.52,168.26 4729.83,168.26" fill="#9ecae1" fill-opacity="0.92" stroke="none"/>
 <text x="4738.01" y="179.28" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGAGUACA</text>
 <text x="4994.34" y="179.28" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">AAUAAUA</text>
-<text x="4738.01" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGUUCAGC</text>
+<text x="4738.01" y="233.82" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUGAACUA</text>
 <text x="4994.34" y="233.82" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">AAUAAUA</text>
 <text x="4994.34" y="192.91" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4994.34" y="206.55" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -719,8 +719,8 @@
 <text x="4866.17" y="207.15" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile89</text>
 <polygon points="639.39,713.65 912.09,713.65 912.09,645.48 639.39,645.48" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="647.57" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUCACUG</text>
-<text x="903.91" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCGAUACUA</text>
-<text x="647.57" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACUCUCA</text>
+<text x="903.91" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGUAUCGC</text>
+<text x="647.57" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAGAGUUC</text>
 <text x="903.91" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGACAGAA</text>
 <text x="903.91" y="670.13" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="903.91" y="683.77" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -729,10 +729,10 @@
 <text x="775.74" y="711.03" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="775.74" y="684.37" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile18</text>
 <polygon points="639.39,577.30 912.09,577.30 912.09,509.13 639.39,509.13" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="647.57" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAGCUAUC</text>
+<text x="647.57" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUAGCUUG</text>
 <text x="903.91" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUCUAGAC</text>
-<text x="647.57" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACAAGUGG</text>
-<text x="903.91" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCCUUACA</text>
+<text x="647.57" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCACUUGUA</text>
+<text x="903.91" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUAAGGAC</text>
 <text x="903.91" y="533.78" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="903.91" y="547.42" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="903.91" y="561.05" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -740,8 +740,8 @@
 <text x="775.74" y="574.69" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="775.74" y="548.02" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile36</text>
 <polygon points="639.39,440.96 912.09,440.96 912.09,372.78 639.39,372.78" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="647.57" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACGUUCUC</text>
-<text x="903.91" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGUUACGC</text>
+<text x="647.57" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGAACGUA</text>
+<text x="903.91" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCGUAACUA</text>
 <text x="647.57" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGGUUAGA</text>
 <text x="903.91" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCACACUG</text>
 <text x="903.91" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -752,8 +752,8 @@
 <text x="775.74" y="411.67" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile54</text>
 <polygon points="639.39,304.61 912.09,304.61 912.09,236.43 639.39,236.43" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
 <text x="647.57" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAUUGCUC</text>
-<text x="903.91" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAGAUGUG</text>
-<text x="647.57" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAGUAAGC</text>
+<text x="903.91" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CACAUCUGA</text>
+<text x="647.57" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUACUUC</text>
 <text x="903.91" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUGACCAA</text>
 <text x="903.91" y="261.09" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="903.91" y="274.72" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -762,10 +762,10 @@
 <text x="775.74" y="301.99" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="775.74" y="275.32" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile72</text>
 <polygon points="639.39,168.26 912.09,168.26 912.09,100.09 639.39,100.09" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="647.57" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUUAGCAG</text>
+<text x="647.57" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGCUAAGA</text>
 <text x="903.91" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGAAUCGA</text>
 <text x="647.57" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACAUUGG</text>
-<text x="903.91" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCGUAUCUC</text>
+<text x="903.91" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGAUACGA</text>
 <text x="903.91" y="124.74" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="903.91" y="138.37" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="903.91" y="152.01" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -773,8 +773,8 @@
 <text x="775.74" y="165.64" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="775.74" y="138.97" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile90</text>
 <polygon points="1184.78,713.65 1457.48,713.65 1457.48,645.48 1184.78,645.48" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="1192.96" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUAGUAUG</text>
-<text x="1449.30" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAUCUGUC</text>
+<text x="1192.96" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUACUAGG</text>
+<text x="1449.30" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACAGAUGA</text>
 <text x="1192.96" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAGCAUAG</text>
 <text x="1449.30" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGCAUUGUA</text>
 <text x="1449.30" y="670.13" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -787,7 +787,7 @@
 <text x="1192.96" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAUCAGCA</text>
 <text x="1449.30" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAUCUUCA</text>
 <text x="1192.96" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUGCAGA</text>
-<text x="1449.30" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAAGUAGG</text>
+<text x="1449.30" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUACUUAG</text>
 <text x="1449.30" y="533.78" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1449.30" y="547.42" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1449.30" y="561.05" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -796,9 +796,9 @@
 <text x="1321.13" y="548.02" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile37</text>
 <polygon points="1184.78,440.96 1457.48,440.96 1457.48,372.78 1184.78,372.78" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="1192.96" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUAUGUCC</text>
-<text x="1449.30" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACAGUUAG</text>
-<text x="1192.96" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAGAUUGC</text>
-<text x="1449.30" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGUCCAUC</text>
+<text x="1449.30" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAACUGUC</text>
+<text x="1192.96" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAAUCUUG</text>
+<text x="1449.30" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGGACAA</text>
 <text x="1449.30" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1449.30" y="411.07" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1449.30" y="424.70" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -808,7 +808,7 @@
 <polygon points="1184.78,304.61 1457.48,304.61 1457.48,236.43 1184.78,236.43" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
 <text x="1192.96" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAGACUAG</text>
 <text x="1449.30" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUUCGUAC</text>
-<text x="1192.96" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAACAAGG</text>
+<text x="1192.96" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUUGUUAC</text>
 <text x="1449.30" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGACUAUCC</text>
 <text x="1449.30" y="261.09" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1449.30" y="274.72" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -818,9 +818,9 @@
 <text x="1321.13" y="275.32" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile73</text>
 <polygon points="1184.78,168.26 1457.48,168.26 1457.48,100.09 1184.78,100.09" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="1192.96" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUACGUAUG</text>
-<text x="1449.30" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUGGCUA</text>
-<text x="1192.96" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAAGUCUC</text>
-<text x="1449.30" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACGGAUUG</text>
+<text x="1449.30" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGCCAAUC</text>
+<text x="1192.96" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGACUUGA</text>
+<text x="1449.30" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAUCCGUA</text>
 <text x="1449.30" y="124.74" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1449.30" y="138.37" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1449.30" y="152.01" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -828,10 +828,10 @@
 <text x="1321.13" y="165.64" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="1321.13" y="138.97" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile91</text>
 <polygon points="1730.17,713.65 2002.87,713.65 2002.87,645.48 1730.17,645.48" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="1738.35" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGUCUAUG</text>
+<text x="1738.35" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUAGACUC</text>
 <text x="1994.69" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUGUCUCA</text>
 <text x="1738.35" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCAGUUGA</text>
-<text x="1994.69" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUCAAGAG</text>
+<text x="1994.69" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUCUUGAGA</text>
 <text x="1994.69" y="670.13" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1994.69" y="683.77" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1994.69" y="697.40" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -839,9 +839,9 @@
 <text x="1866.52" y="711.03" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="1866.52" y="684.37" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile20</text>
 <polygon points="1730.17,577.30 2002.87,577.30 2002.87,509.13 1730.17,509.13" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="1738.35" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUCGAUACA</text>
-<text x="1994.69" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCUCAUAG</text>
-<text x="1738.35" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCAUUCGAA</text>
+<text x="1738.35" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUAUCGAG</text>
+<text x="1994.69" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAUGAGGA</text>
+<text x="1738.35" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCGAAUGG</text>
 <text x="1994.69" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAUCUACG</text>
 <text x="1994.69" y="533.78" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1994.69" y="547.42" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -852,7 +852,7 @@
 <polygon points="1730.17,440.96 2002.87,440.96 2002.87,372.78 1730.17,372.78" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="1738.35" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAUGAAGG</text>
 <text x="1994.69" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAAGCCUA</text>
-<text x="1738.35" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUUCAUAC</text>
+<text x="1738.35" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAUGAACC</text>
 <text x="1994.69" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGAAUCCG</text>
 <text x="1994.69" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1994.69" y="411.07" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -862,9 +862,9 @@
 <text x="1866.52" y="411.67" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile56</text>
 <polygon points="1730.17,304.61 2002.87,304.61 2002.87,236.43 1730.17,236.43" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
 <text x="1738.35" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUCGUAAC</text>
-<text x="1994.69" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACCUAUCA</text>
+<text x="1994.69" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAUAGGUC</text>
 <text x="1738.35" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCACUUAG</text>
-<text x="1994.69" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUAGUCAC</text>
+<text x="1994.69" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGACUAAC</text>
 <text x="1994.69" y="261.09" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1994.69" y="274.72" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1994.69" y="288.36" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -872,10 +872,10 @@
 <text x="1866.52" y="301.99" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="1866.52" y="275.32" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile74</text>
 <polygon points="1730.17,168.26 2002.87,168.26 2002.87,100.09 1730.17,100.09" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="1738.35" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAUAGCAG</text>
-<text x="1994.69" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGUUACC</text>
+<text x="1738.35" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGCUAUCA</text>
+<text x="1994.69" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUAACUAG</text>
 <text x="1738.35" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGGUAACAC</text>
-<text x="1994.69" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAUCAGAC</text>
+<text x="1994.69" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCUGAUAG</text>
 <text x="1994.69" y="124.74" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1994.69" y="138.37" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1994.69" y="152.01" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -884,9 +884,9 @@
 <text x="1866.52" y="138.97" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile92</text>
 <polygon points="2275.57,713.65 2548.26,713.65 2548.26,645.48 2275.57,645.48" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="2283.75" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAACUGCA</text>
-<text x="2540.08" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGACUGA</text>
+<text x="2540.08" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCAGUCAUC</text>
 <text x="2283.75" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUUCUACC</text>
-<text x="2540.08" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUCUGAUUG</text>
+<text x="2540.08" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAUCAGAG</text>
 <text x="2540.08" y="670.13" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2540.08" y="683.77" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2540.08" y="697.40" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -895,8 +895,8 @@
 <text x="2411.91" y="684.37" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile21</text>
 <polygon points="2275.57,577.30 2548.26,577.30 2548.26,509.13 2275.57,509.13" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
 <text x="2283.75" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUGACAUC</text>
-<text x="2540.08" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCUGUAAG</text>
-<text x="2283.75" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAUCAGGA</text>
+<text x="2540.08" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUACAGGA</text>
+<text x="2283.75" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCUGAUAC</text>
 <text x="2540.08" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUCAUUGA</text>
 <text x="2540.08" y="533.78" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2540.08" y="547.42" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -905,9 +905,9 @@
 <text x="2411.91" y="574.69" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="2411.91" y="548.02" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile39</text>
 <polygon points="2275.57,440.96 2548.26,440.96 2548.26,372.78 2275.57,372.78" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="2283.75" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAAGGUCA</text>
+<text x="2283.75" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGACCUUAG</text>
 <text x="2540.08" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAGAUACC</text>
-<text x="2283.75" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GACUGUGUA</text>
+<text x="2283.75" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACACAGUC</text>
 <text x="2540.08" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUGUACG</text>
 <text x="2540.08" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2540.08" y="411.07" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -916,10 +916,10 @@
 <text x="2411.91" y="438.34" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="2411.91" y="411.67" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile57</text>
 <polygon points="2275.57,304.61 2548.26,304.61 2548.26,236.43 2275.57,236.43" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="2283.75" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAGUUCAC</text>
+<text x="2283.75" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGAACUUC</text>
 <text x="2540.08" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUCAUUCC</text>
-<text x="2283.75" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGUCGAAG</text>
-<text x="2540.08" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAUGGCAA</text>
+<text x="2283.75" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUCGACAA</text>
+<text x="2540.08" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGCCAUAC</text>
 <text x="2540.08" y="261.09" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2540.08" y="274.72" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2540.08" y="288.36" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -929,7 +929,7 @@
 <polygon points="2275.57,168.26 2548.26,168.26 2548.26,100.09 2275.57,100.09" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="2283.75" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUAUGUAC</text>
 <text x="2540.08" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAUCCUUG</text>
-<text x="2283.75" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUCUUGAA</text>
+<text x="2283.75" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAAGACC</text>
 <text x="2540.08" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCUAAGGA</text>
 <text x="2540.08" y="124.74" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2540.08" y="138.37" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -939,9 +939,9 @@
 <text x="2411.91" y="138.97" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile93</text>
 <polygon points="2820.96,713.65 3093.65,713.65 3093.65,645.48 2820.96,645.48" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="2829.14" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAACAUGGA</text>
-<text x="3085.47" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUCUCACA</text>
+<text x="3085.47" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUGAGAUC</text>
 <text x="2829.14" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAUGUGUC</text>
-<text x="3085.47" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUGUCCUA</text>
+<text x="3085.47" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGGACAAC</text>
 <text x="3085.47" y="670.13" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3085.47" y="683.77" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3085.47" y="697.40" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -949,10 +949,10 @@
 <text x="2957.30" y="711.03" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="2957.30" y="684.37" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile22</text>
 <polygon points="2820.96,577.30 3093.65,577.30 3093.65,509.13 2820.96,509.13" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="2829.14" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACUGCUA</text>
+<text x="2829.14" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGCAGUUC</text>
 <text x="3085.47" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGCGUAAG</text>
 <text x="2829.14" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAGAGAUGA</text>
-<text x="3085.47" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGGCAUUC</text>
+<text x="3085.47" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAUGCCUA</text>
 <text x="3085.47" y="533.78" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3085.47" y="547.42" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3085.47" y="561.05" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -960,9 +960,9 @@
 <text x="2957.30" y="574.69" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="2957.30" y="548.02" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile40</text>
 <polygon points="2820.96,440.96 3093.65,440.96 3093.65,372.78 2820.96,372.78" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="2829.14" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAACGUGA</text>
+<text x="2829.14" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCACGUUAG</text>
 <text x="3085.47" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGAAUCAUC</text>
-<text x="2829.14" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCACUUCUA</text>
+<text x="2829.14" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGAAGUGC</text>
 <text x="3085.47" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGCUUACA</text>
 <text x="3085.47" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3085.47" y="411.07" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -982,10 +982,10 @@
 <text x="2957.30" y="301.99" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="2957.30" y="275.32" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile76</text>
 <polygon points="2820.96,168.26 3093.65,168.26 3093.65,100.09 2820.96,100.09" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="2829.14" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAGAAGC</text>
-<text x="3085.47" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGAACUC</text>
+<text x="2829.14" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUCUGAA</text>
+<text x="3085.47" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGUUCUAG</text>
 <text x="2829.14" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACUGUACC</text>
-<text x="3085.47" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCCGUAUG</text>
+<text x="3085.47" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUACGGAA</text>
 <text x="3085.47" y="124.74" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3085.47" y="138.37" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3085.47" y="152.01" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -993,10 +993,10 @@
 <text x="2957.30" y="165.64" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="2957.30" y="138.97" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile94</text>
 <polygon points="3366.35,713.65 3639.04,713.65 3639.04,645.48 3366.35,645.48" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="3374.53" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAACAAGC</text>
+<text x="3374.53" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUGUUAG</text>
 <text x="3630.86" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUCCAAUC</text>
 <text x="3374.53" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUCAUCCA</text>
-<text x="3630.86" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCAUAGAUG</text>
+<text x="3630.86" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUCUAUGG</text>
 <text x="3630.86" y="670.13" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3630.86" y="683.77" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3630.86" y="697.40" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1004,10 +1004,10 @@
 <text x="3502.70" y="711.03" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="3502.70" y="684.37" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile23</text>
 <polygon points="3366.35,577.30 3639.04,577.30 3639.04,509.13 3366.35,509.13" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="3374.53" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGCUUAGAA</text>
+<text x="3374.53" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCUAAGCC</text>
 <text x="3630.86" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUGUAACG</text>
 <text x="3374.53" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUGAACAGC</text>
-<text x="3630.86" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CACUUACGA</text>
+<text x="3630.86" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCGUAAGUG</text>
 <text x="3630.86" y="533.78" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3630.86" y="547.42" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3630.86" y="561.05" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1016,9 +1016,9 @@
 <text x="3502.70" y="548.02" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile41</text>
 <polygon points="3366.35,440.96 3639.04,440.96 3639.04,372.78 3366.35,372.78" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="3374.53" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAUUCAUG</text>
-<text x="3630.86" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CGGAUAGAA</text>
-<text x="3374.53" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAACAGG</text>
-<text x="3630.86" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUGACCUA</text>
+<text x="3630.86" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCUAUCCG</text>
+<text x="3374.53" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCUGUUGAA</text>
+<text x="3630.86" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGGUCAUG</text>
 <text x="3630.86" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3630.86" y="411.07" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3630.86" y="424.70" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1026,9 +1026,9 @@
 <text x="3502.70" y="438.34" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="3502.70" y="411.67" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile59</text>
 <polygon points="3366.35,304.61 3639.04,304.61 3639.04,236.43 3366.35,236.43" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="3374.53" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAGGUUGAA</text>
-<text x="3630.86" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACUUAGCC</text>
-<text x="3374.53" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUUCCUAG</text>
+<text x="3374.53" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAACCUG</text>
+<text x="3630.86" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGCUAAGUA</text>
+<text x="3374.53" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGGAAUG</text>
 <text x="3630.86" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUCAGAGA</text>
 <text x="3630.86" y="261.09" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3630.86" y="274.72" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1037,7 +1037,7 @@
 <text x="3502.70" y="301.99" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="3502.70" y="275.32" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile77</text>
 <polygon points="3366.35,168.26 3639.04,168.26 3639.04,100.09 3366.35,100.09" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="3374.53" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGACAGUAC</text>
+<text x="3374.53" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUACUGUCA</text>
 <text x="3630.86" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUCUAGCA</text>
 <text x="3374.53" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUUCAGUC</text>
 <text x="3630.86" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGUCGAUUG</text>
@@ -1048,7 +1048,7 @@
 <text x="3502.70" y="165.64" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="3502.70" y="138.97" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile95</text>
 <polygon points="3911.74,713.65 4184.43,713.65 4184.43,645.48 3911.74,645.48" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="3919.92" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAGUGAAC</text>
+<text x="3919.92" y="656.50" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUCACUCA</text>
 <text x="4176.25" y="656.50" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAUAGUGA</text>
 <text x="3919.92" y="711.03" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUGAACAUG</text>
 <text x="4176.25" y="711.03" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCAGAAUC</text>
@@ -1061,7 +1061,7 @@
 <polygon points="3911.74,577.30 4184.43,577.30 4184.43,509.13 3911.74,509.13" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
 <text x="3919.92" y="520.15" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAAUGAAGC</text>
 <text x="4176.25" y="520.15" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUUGUACAC</text>
-<text x="3919.92" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUGAAAG</text>
+<text x="3919.92" y="574.69" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUUUCAAGC</text>
 <text x="4176.25" y="574.69" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UACUACGUC</text>
 <text x="4176.25" y="533.78" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4176.25" y="547.42" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1072,8 +1072,8 @@
 <polygon points="3911.74,440.96 4184.43,440.96 4184.43,372.78 3911.74,372.78" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
 <text x="3919.92" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAACUUAGG</text>
 <text x="4176.25" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUAGUAACC</text>
-<text x="3919.92" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGUGCUAG</text>
-<text x="4176.25" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAGUAAGA</text>
+<text x="3919.92" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGCACUA</text>
+<text x="4176.25" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUUACUGC</text>
 <text x="4176.25" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4176.25" y="411.07" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4176.25" y="424.70" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1084,7 +1084,7 @@
 <text x="3919.92" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAGACUAC</text>
 <text x="4176.25" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUCGAUGAA</text>
 <text x="3919.92" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUUGGUAC</text>
-<text x="4176.25" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUAGUUGC</text>
+<text x="4176.25" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCAACUAUG</text>
 <text x="4176.25" y="261.09" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4176.25" y="274.72" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4176.25" y="288.36" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1092,10 +1092,10 @@
 <text x="4048.09" y="301.99" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="4048.09" y="275.32" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile78</text>
 <polygon points="3911.74,168.26 4184.43,168.26 4184.43,100.09 3911.74,100.09" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="3919.92" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUCAAGCA</text>
+<text x="3919.92" y="111.10" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCUUGAUG</text>
 <text x="4176.25" y="111.10" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGACGAAUC</text>
-<text x="3919.92" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUACUAAGC</text>
-<text x="4176.25" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCACUCUUG</text>
+<text x="3919.92" y="165.64" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUAGUAC</text>
+<text x="4176.25" y="165.64" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAGAGUGA</text>
 <text x="4176.25" y="124.74" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4176.25" y="138.37" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4176.25" y="152.01" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1125,8 +1125,8 @@
 <text x="4593.48" y="574.69" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="4593.48" y="548.02" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile43</text>
 <polygon points="4457.13,440.96 4729.83,440.96 4729.83,372.78 4457.13,372.78" fill="#f4a6a6" fill-opacity="0.92" stroke="none"/>
-<text x="4465.31" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CCAAUGAUG</text>
-<text x="4721.65" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCCUAGUUC</text>
+<text x="4465.31" y="383.80" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUCAUUGG</text>
+<text x="4721.65" y="383.80" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAACUAGGA</text>
 <text x="4465.31" y="438.34" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUCGAAG</text>
 <text x="4721.65" y="438.34" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCGUCUUAC</text>
 <text x="4721.65" y="397.43" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1136,10 +1136,10 @@
 <text x="4593.48" y="438.34" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB18BBBB</text>
 <text x="4593.48" y="411.67" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile61</text>
 <polygon points="4457.13,304.61 4729.83,304.61 4729.83,236.43 4457.13,236.43" fill="#f6c08b" fill-opacity="0.92" stroke="none"/>
-<text x="4465.31" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUACUACUG</text>
-<text x="4721.65" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUGAACUA</text>
+<text x="4465.31" y="247.45" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAGUAGUAG</text>
+<text x="4721.65" y="247.45" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGUUCAGC</text>
 <text x="4465.31" y="301.99" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAAUCGC</text>
-<text x="4721.65" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUAUGCAG</text>
+<text x="4721.65" y="301.99" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGCAUAGA</text>
 <text x="4721.65" y="261.09" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4721.65" y="274.72" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="4721.65" y="288.36" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
@@ -1161,7 +1161,7 @@
 <text x="374.88" y="75.88" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f"></text>
 <text x="631.21" y="75.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
 <text x="374.88" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUCUACAUG</text>
-<text x="631.21" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGCUAAGA</text>
+<text x="631.21" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UCUUAGCAG</text>
 <text x="631.21" y="87.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="503.04" y="98.61" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="503.04" y="87.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile99</text>
@@ -1176,15 +1176,15 @@
 <polygon points="1457.48,100.09 1730.17,100.09 1730.17,66.00" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="1465.66" y="75.88" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f"></text>
 <text x="1721.99" y="75.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
-<text x="1465.66" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UAGCCAAUC</text>
-<text x="1721.99" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUGCUAUCA</text>
+<text x="1465.66" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAUUGGCUA</text>
+<text x="1721.99" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGAUAGCAG</text>
 <text x="1721.99" y="87.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="1593.83" y="98.61" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="1593.83" y="87.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile101</text>
 <polygon points="2002.87,100.09 2275.57,100.09 2275.57,66.00" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="2011.05" y="75.88" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f"></text>
 <text x="2267.38" y="75.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
-<text x="2011.05" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GGUAACUAG</text>
+<text x="2011.05" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGUUACC</text>
 <text x="2267.38" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUACAUAGC</text>
 <text x="2267.38" y="87.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2139.22" y="98.61" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
@@ -1193,15 +1193,15 @@
 <text x="2556.44" y="75.88" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f"></text>
 <text x="2812.78" y="75.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
 <text x="2556.44" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAAGGAUAG</text>
-<text x="2812.78" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GCUUCUGAA</text>
+<text x="2812.78" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCAGAAGC</text>
 <text x="2812.78" y="87.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="2684.61" y="98.61" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="2684.61" y="87.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile103</text>
 <polygon points="3093.65,100.09 3366.35,100.09 3366.35,66.00" fill="#a6dba0" fill-opacity="0.92" stroke="none"/>
 <text x="3101.83" y="75.88" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f"></text>
 <text x="3358.17" y="75.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
-<text x="3101.83" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GAGUUCUAG</text>
-<text x="3358.17" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">GUACUGUCA</text>
+<text x="3101.83" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CUAGAACUC</text>
+<text x="3358.17" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGACAGUAC</text>
 <text x="3358.17" y="87.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3230.00" y="98.61" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="3230.00" y="87.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile104</text>
@@ -1209,7 +1209,7 @@
 <text x="3647.22" y="75.88" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f"></text>
 <text x="3903.56" y="75.88" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UUCG</text>
 <text x="3647.22" y="98.61" text-anchor="start" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCUAGAAG</text>
-<text x="3903.56" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">UGCUUGAUG</text>
+<text x="3903.56" y="98.61" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">CAUCAAGCA</text>
 <text x="3903.56" y="87.24" text-anchor="end" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">SS</text>
 <text x="3775.39" y="98.61" text-anchor="middle" dominant-baseline="middle" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#1f1f1f">BBBB19BBBB</text>
 <text x="3775.39" y="87.84" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111111">Tile105</text>

@@ -27,7 +27,8 @@ All files are written into a new folder:
 ## Requirements
 
 - Python 3.9+.
-- Step 1–3: standard Python library only.
+- GUI mode: `PySide6` (`pip install PySide6`).
+- Command-line steps 1–3: standard Python library only.
 - Step 4 figure (`orthogonality_Nnt_RNA_Pool.png`): requires `nupack` (and `matplotlib`, `numpy`).
 - If `nupack` is not installed, the pipeline still completes and still writes:
   - `Orthogonal_RNA_Pool_Nnt.txt`
@@ -38,9 +39,25 @@ All files are written into a new folder:
 
 ## How To Run
 
+With no arguments, the PySide6 GUI opens. Enter the sequence length, exact G/C
+base count, number of selection rounds, guide RNA sequences, and optional final
+output filename, then click **Run selection**. The window displays live pipeline output and completion
+status. It runs the same four steps as command-line mode and saves results in
+`Orthogonal_RNA_Pool_<N>nt/` under the current working directory. If that folder
+already exists, the GUI asks before reusing it. Click a light-blue **?** button
+beside any parameter for an explanation and example.
+
 ```bash
-python run_orthogonal_selection.py -N 9
+python run_orthogonal_selection.py
 ```
+
+Use `--gui` to open the GUI explicitly. Options supplied with `--gui` prefill
+its fields, for example `python run_orthogonal_selection.py --gui -N 9 -R 2000`.
+Any normal pipeline option without `--gui` runs non-interactively. Use `--cli`
+for a non-interactive run with all defaults. The GUI is not needed for CLI mode.
+
+Use `--help` (or `-h`) for the standard argument list, or `-U` for the longer
+built-in usage instructions; neither opens the GUI.
 
 Example output folder:
 
@@ -62,6 +79,10 @@ Example files inside:
 - `-N`, `--num-nt`
   - Meaning: sequence length `N`.
   - Default: `9`.
+
+- `-C`, `--gc-count`
+  - Meaning: exact total number of G/C bases in each generated sequence (not separate G and C quotas).
+  - Default: `4`; valid range: `2` to `N-2`.
 
 - `-R`, `--rounds`
   - Meaning: number of randomized attempts in step 3.
@@ -89,13 +110,14 @@ Example files inside:
 
 ### How to run it (9‑nt example)
 
-From the project directory:
+From `Orthogonal_sequence_selection/`:
 
 
 ```
-python generate_pool_nnt.py 9
+python functions/generate_pool_nnt.py 9
 ```
 - **Positional argument**: `N` (here `9`)
+- **Optional**: `-C` / `--gc-count` (default `4`; e.g. `-C 5` for five G/C positions)
 - **Optional**: `--output <filename>`
 
 If you don’t give `--output`, it will write to: `RNA_Pool_9nt.txt` (one sequence per line, all uppercase RNA).
@@ -111,7 +133,7 @@ CGCUAAGAA
 GCCUAAGAA
 ```
 
-### What it **means** by “4S and (N–4) W”
+### What the G/C count means
 
 - It works at two levels:
 1. **S/W pattern** level: "strong" vs "weak"
@@ -120,11 +142,13 @@ GCCUAAGAA
 
 2. **Base assignment** level: choose actual A/G/U/C consistent with that S/W pattern.
 
-For N = 9 the script enforces **exactly 4 S and 5 W**, so **every 9‑mer has 4 G/C and 5 A/U**.
+By default, for N = 9 the script enforces **exactly 4 S and 5 W**, so **every 9‑mer has 4 G/C and 5 A/U**. With `-C 5`, it instead uses **5 S and 4 W**. At least two of each class are required because every candidate must contain A, U, G, and C.
 
 #### S/W pattern generation (function `gen_pattern_sw`)
 
-For each 9‑nt pattern, it:
+With the default four G/C positions, the original C++ pattern-generation logic and output order are preserved. For a custom count, the script enumerates S/W placements and rejects patterns containing four consecutive S or four consecutive W; the later sequence-level filters are unchanged.
+
+For each default 9‑nt pattern, the original logic:
 
 - Picks positions of the 4 S’s (indices Sa, Sb, Sc, Sd) and fills the rest with W.
 - Rejects patterns that:
@@ -459,11 +483,11 @@ The script now produces two outputs:
 Example (first lines of `Orthogonal_RNA_Pool_9nt/Orthogonal_RNA_Pool_9nt.txt`):
 
 ```text
-CAUGAUUGC	GUACUAACG
-CUCUAGUUC	GAGAUCAAG
-CUACUGUUC	GAUGACAAG
-GUUACCUCA	CAAUGGAGU
-UACGAUCUC	AUGCUAGAG
+UAGAGCUAC	GUAGCUCUA
+UGAGAGUUC	GAACUCUCA
+UACCAUUGC	GCAAUGGUA
+UGUACUCAC	GUGAGUACA
+CUAGUUACC	GGUAACUAG
 GCUACAUAG	CGAUGUAUC
 ```
 
@@ -483,11 +507,27 @@ NUPACK settings used for the figure:
 
 ## Command Examples
 
-Use defaults:
+Open the GUI with defaults:
 
 ```bash
 python run_orthogonal_selection.py
 ```
+
+Run non-interactively with defaults:
+
+```bash
+python run_orthogonal_selection.py --cli
+```
+
+Use a different G/C count (five G/C bases in each 9-mer):
+
+```bash
+python run_orthogonal_selection.py -N 9 -C 5
+```
+
+Runs with different G/C counts but the same `N` use the same output directory
+and filenames, so move or rename earlier results before rerunning if you need
+to keep both. The GUI warns before reusing an existing output directory.
 
 Set length and rounds:
 
@@ -512,6 +552,7 @@ This changes only the step-4 text file name. The figure is still generated as:
 Show help/instructions:
 
 ```bash
+python run_orthogonal_selection.py --help
 python run_orthogonal_selection.py -U
 ```
 
@@ -519,7 +560,7 @@ python run_orthogonal_selection.py -U
 
 ## Folder Layout
 
-- `run_orthogonal_selection.py`: one-command pipeline runner.
+- `run_orthogonal_selection.py`: GUI/CLI entry point, parameter-entry window, live log, and pipeline runner.
 - `functions/generate_pool_nnt.py`: step 1 implementation.
 - `functions/build_rna_conflict_graphV2.py`: step 2 implementation.
 - `functions/select_from_conflict_graph.py`: step 3 implementation.

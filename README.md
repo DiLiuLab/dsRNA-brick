@@ -57,10 +57,25 @@ Notes:
 
 ### 3. Run orthogonal sequence selection
 
+Launch the parameter-entry GUI (requires PySide6):
+
 ```bash
 cd Orthogonal_sequence_selection
+python run_orthogonal_selection.py
+```
+
+Or run from the command line without opening the GUI:
+
+```bash
 python run_orthogonal_selection.py -N 9 -R 1000
 ```
+
+Set an exact G/C count with `-C` (default `4`), for example
+`python run_orthogonal_selection.py -N 9 -C 5`. This counts G and C together,
+not separately.
+
+Use `python run_orthogonal_selection.py --help` to see all options. For a
+non-interactive run with all defaults, use `python run_orthogonal_selection.py --cli`.
 
 Main outputs:
 

@@ -74,7 +74,7 @@ python -m function.build_dsRNA_Bricks_3D
 - `function/c_tiles.py`: tile geometry definitions.
 - `function/rna_tile_generator.py`: Type I / Type II RNA scaffold generation.
 - `function/nupack_runner.py`: NUPACK run pipeline for generated tiles.
-- `KL_231pairs.txt`: example KL pair pool file.
+- `KL_229pairs.txt`: example KL pair pool file.
 - `demo_2x3x2_23tile/`: demo run outputs for a `2x3x2` lattice.
 - `demo_3x5x4_118tile/`: demo run outputs for a `3x5x4` lattice.
 
@@ -85,19 +85,24 @@ python -m function.build_dsRNA_Bricks_3D
    ![3x5x4 overview](docs/Figure/118_full.png)
 
 2. Input  
-   Choose a KL pair pool file. Here we use `KL_231pairs.txt`.
+   Choose a KL pair pool file. Here we use `KL_229pairs.txt`.
 
-   Example lines from `KL_231pairs.txt`:
+   Each pool row is `bulge_sequence<TAB>loop_sequence`, with both sequences
+   written 5′→3′. The loop is the bulge's reverse complement. Pool rows are
+   sampled reproducibly, but their columns are never swapped: the first
+   sequence always goes to a bulge and the second to its partner loop.
+
+   Example lines from `KL_229pairs.txt`:
 
    ```text
-   CUAGAUGGA	GAUCUACCU
-   UGUACCUUC	ACAUGGAAG
-   UCAGAUUCG	AGUCUAAGC
-   GCAUGAGUA	CGUACUCAU
-   GCUCAUCUA	CGAGUAGAU
-   UAGCCAUUC	AUCGGUAAG
-   GUUAGAACG	CAAUCUUGC
-   CCUUAGUUG	GGAAUCAAC
+   UAGAGCUAC	GUAGCUCUA
+   UGAGAGUUC	GAACUCUCA
+   UACCAUUGC	GCAAUGGUA
+   UGUACUCAC	GUGAGUACA
+   CUAGUUACC	GGUAACUAG
+   CUGAAUCGA	UCGAUUCAG
+   UCUAGAGAC	GUCUCUAGA
+   UGGAUACAC	GUGUAUCCA
    ```
 
    Set `X=3`, `Y=5`, `Z=4`, and optional prefix.  
@@ -214,7 +219,7 @@ python -m function.build_dsRNA_Bricks_3D
 - With the same KL pair pool file, lattice size (`X`, `Y`, `Z`), and tile selection, the assignment/order is deterministic.
 
 ## File Format Mini-Spec
-1. KL pair pool file (`KL_231pairs.txt` style)
+1. KL pair pool file (`KL_229pairs.txt` style)
    - One pair per line.
    - Two RNA sequences separated by a tab.
    - Example:

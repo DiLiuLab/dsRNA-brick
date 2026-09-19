@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import random
 from collections import defaultdict
 from typing import Any
 
@@ -22,6 +23,59 @@ LIGHT_BLUE = "#9ecae1"
 LIGHT_ORANGE = "#f6c08b"
 LIGHT_GREEN = "#a6dba0"
 LIGHT_RED = "#f4a6a6"
+
+TYPE_II_TILE_NAMES = {"L_block_3", "L_block_4", "W_block_2"}
+HemiRef = tuple[int, int]
+
+
+def kl_hemisphere_role(tile: TileSpec, hemi_idx: int) -> str:
+    """Identify the physical bKL role of a tile's hemisphere endpoint."""
+    if tile.tile_name in TYPE_II_TILE_NAMES:
+        if len(tile.hemi_positions) != 3:
+            raise ValueError(f"Unexpected KL endpoint layout for tile {tile.tile_name!r}.")
+        # Type II: h2 is the loop, h3 the bulge, and h4 is a boundary cap.
+        roles = ("loop", "bulge", "cap")
+    elif len(tile.hemi_positions) == 4:
+        # Type I: h1/h2 are stem loops; h3/h4 are bulge regions.
+        roles = ("loop", "loop", "bulge", "bulge")
+    else:
+        raise ValueError(f"Unknown KL endpoint layout for tile {tile.tile_name!r}.")
+    if not 0 <= hemi_idx < len(roles):
+        raise ValueError(f"Invalid hemisphere index {hemi_idx} for tile {tile.tile_name!r}.")
+    return roles[hemi_idx]
+
+
+def assign_kl_pool_pairs(
+    pair_refs: list[tuple[HemiRef, HemiRef]],
+    pool_pairs: list[tuple[str, str]],
+    tile_by_id: dict[int, TileSpec],
+    *,
+    seed: int = 42,
+) -> dict[HemiRef, str]:
+    """Sample KL pairs, keeping pool column 1 on bulges and column 2 on loops."""
+    if len(pool_pairs) < len(pair_refs):
+        raise ValueError("KL pool contains fewer pairs than the lattice requires.")
+
+    assignments: dict[HemiRef, str] = {}
+    for (a_ref, b_ref), (bulge_seq, loop_seq) in zip(
+        pair_refs, random.Random(seed).sample(pool_pairs, len(pair_refs))
+    ):
+        try:
+            a_role = kl_hemisphere_role(tile_by_id[a_ref[0]], a_ref[1])
+            b_role = kl_hemisphere_role(tile_by_id[b_ref[0]], b_ref[1])
+        except KeyError as exc:
+            raise ValueError(f"Unknown tile ID {exc.args[0]} in KL pair.") from None
+        if {a_role, b_role} != {"bulge", "loop"}:
+            raise ValueError(
+                f"KL pair {a_ref}, {b_ref} joins {a_role} to {b_role}, "
+                "not a bulge to a loop."
+            )
+        bulge_ref, loop_ref = (a_ref, b_ref) if a_role == "bulge" else (b_ref, a_ref)
+        if bulge_ref in assignments or loop_ref in assignments:
+            raise ValueError(f"KL pair {a_ref}, {b_ref} reuses an assigned endpoint.")
+        assignments[bulge_ref] = bulge_seq
+        assignments[loop_ref] = loop_seq
+    return assignments
 
 
 def missing_required_modules(modules: dict[str, Any]) -> list[str]:

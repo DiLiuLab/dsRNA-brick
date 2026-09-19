@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import math
 import os
-import random
 import sys
 import textwrap
 from html import escape
@@ -58,8 +57,13 @@ else:
     _qt_import_error = None
 
 try:
-    from .lattice_builder import build_lattice, missing_required_modules, relabel_tiles
-    from .lattice_builder import analyze_hemisphere_pairing
+    from .lattice_builder import (
+        analyze_hemisphere_pairing,
+        assign_kl_pool_pairs,
+        build_lattice,
+        missing_required_modules,
+        relabel_tiles,
+    )
     from .map2d import TileMapWidget, build_map_entries_by_z
     from .nupack_runner import run_nupack_design
     from .rna_tile_generator import generate_l1_tile_rna, generate_type2_tile_rna
@@ -543,17 +547,15 @@ class MainWindow(QtWidgets.QMainWindow):  # type: ignore[misc]
             )
             return
 
-        rng = random.Random(42)
-        chosen = rng.sample(pool_pairs, required)
-        for pair_refs, seq_pair in zip(unique_pairs, chosen):
-            a_ref, b_ref = pair_refs
-            left, right = seq_pair
-            if rng.random() < 0.5:
-                seq_a, seq_b = left, right
-            else:
-                seq_a, seq_b = right, left
-            self._assigned_seq_by_ref[a_ref] = seq_a
-            self._assigned_seq_by_ref[b_ref] = seq_b
+        try:
+            self._assigned_seq_by_ref.update(
+                assign_kl_pool_pairs(unique_pairs, pool_pairs, self._tile_by_id)
+            )
+        except ValueError as exc:
+            self._alignment_error = (
+                f"KL sequence assignment failed: {exc}\nCannot generate sequence."
+            )
+            return
 
         self._assignment_ready = True
 

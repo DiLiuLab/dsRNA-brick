@@ -61,7 +61,7 @@ python -m function.build_dsRNA_Bricks_3D
 - `function/c_tiles.py`: tile geometry definitions.
 - `function/rna_tile_generator.py`: tile RNA generation.
 - `function/nupack_runner.py`: NUPACK execution pipeline.
-- `KL_231pairs.txt`: example KL sequence-pool file.
+- `KL_229pairs.txt`: example KL sequence-pool file.
 - `demo_9x12_107tile/`: demo outputs.
 
 ## Workflow Example (9x12, 107 tiles)
@@ -73,21 +73,26 @@ python -m function.build_dsRNA_Bricks_3D
 
 2. Input panel
 
-   - Select KL pool file (example: `KL_231pairs.txt`).
+   - Select KL pool file (example: `KL_229pairs.txt`).
    - Set `X`, `Y`, and optional prefix.
    - Required KL-pair count must be <= pool size.
+
+   Each pool row is `bulge_sequence<TAB>loop_sequence`, with both sequences
+   written 5′→3′. The loop is the bulge's reverse complement. Pool rows are
+   sampled reproducibly, but their columns are never swapped: the first
+   sequence always goes to a bulge and the second to its partner loop.
 
    Example pool lines:
 
    ```text
-   CUAGAUGGA	GAUCUACCU
-   UGUACCUUC	ACAUGGAAG
-   UCAGAUUCG	AGUCUAAGC
-   GCAUGAGUA	CGUACUCAU
-   GCUCAUCUA	CGAGUAGAU
-   UAGCCAUUC	AUCGGUAAG
-   GUUAGAACG	CAAUCUUGC
-   CCUUAGUUG	GGAAUCAAC
+   UAGAGCUAC	GUAGCUCUA
+   UGAGAGUUC	GAACUCUCA
+   UACCAUUGC	GCAAUGGUA
+   UGUACUCAC	GUGAGUACA
+   CUAGUUACC	GGUAACUAG
+   CUGAAUCGA	UCGAUUCAG
+   UCUAGAGAC	GUCUCUAGA
+   UGGAUACAC	GUGUAUCCA
    ```
 
    ![Input panel](docs/Figure/2D_input_panel.png)
